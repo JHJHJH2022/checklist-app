@@ -22,7 +22,7 @@ export const addTodo = () => {
 
 export const deleteTodo = (id) => {
   todos.update((currentTodos) => {
-    return currentTodos.filter((todo) => todo.id != id);
+    return currentTodos.filter((todo) => todo.id !== id);
   });
 };
 
