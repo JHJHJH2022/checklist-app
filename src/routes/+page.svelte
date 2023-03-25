@@ -1,1 +1,1 @@
-<h1 class="text-3xl font-bold underline">Welcome to SvelteKit</h1>z
+<h1 class="text-3xl font-bold underline m-4 p-4">Welcome to SvelteKit</h1>
